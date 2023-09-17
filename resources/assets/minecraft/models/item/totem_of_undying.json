@@ -4,7 +4,8 @@
 		"layer0": "minecraft:item/totem_of_undying"
 	},
 
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "custom:item/fox_boy_totem"}
-	]
+	"overrides": {
+		"predicate": {"custom_model_data":001},
+		"model": "custom:item/fox_boy_totem"
+	}
 }
