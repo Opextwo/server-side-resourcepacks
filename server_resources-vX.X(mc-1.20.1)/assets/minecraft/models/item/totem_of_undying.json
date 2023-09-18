@@ -5,7 +5,7 @@
 	},
 	"overrides": [
 		{
-			"predicate":{"custom_model_data": 1}, "model": "custom:item/fox_boy_totem"
+			"predicate":{"custom_model_data": 1}, "model": "foxboyofficial:item/totem"
 		}
 	]
 }
