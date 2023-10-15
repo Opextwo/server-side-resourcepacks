@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/template_music_disc",
+    "textures": {
+      "layer0": "minecraft:item/music_disc_strad"
+    },
+	"overrides": [
+		{"predicate":{"custom_model_data": 1}, "model": "foxboyofficial:item/records/bated_breath"},
+    {"predicate":{"custom_model_data": 2}, "model": "foxboyofficial:item/records/blossom_in_the_wind"},
+    {"predicate":{"custom_model_data": 3}, "model": "foxboyofficial:item/records/under_the_blossom"},
+    {"predicate":{"custom_model_data": 4}, "model": "foxboyofficial:item/records/wip"}
+	]
+  }
